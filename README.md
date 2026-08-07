@@ -1,7 +1,13 @@
 # 🛒 Retail Sales Analytics using SQL
 
 ---
+## 📌 Project Highlights
 
+- End-to-End SQL Project  
+- Real-world Business Analysis  
+- Customer Segmentation  
+- Revenue & Sales Insights
+  
 ## 📊 Project Overview
 
 This project analyzes retail sales data using SQL to generate meaningful business insights related to product performance, customer segmentation, and customer behaviour.
